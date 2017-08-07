@@ -1,2 +1,2 @@
-## Paements generation for SEB bank LT payments generation XML.
-# convert to utf-8 using notepad++ before transfer
+# Payments XML generation for SEB bank LT payments import using PowerShell.
+## convert to utf-8 using notepad++ before transfer.
